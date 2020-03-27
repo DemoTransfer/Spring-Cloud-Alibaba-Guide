@@ -16,6 +16,8 @@ Spring Cloud Alibaba provides a one-stop solution for application development fo
 
 * <a href="https://github.com/DemoTransfer/Spring-Cloud-Alibaba-Guide/blob/master/docs/xmind/Spring-Cloud-Alibaba-Guide.XMAP.xmind">Learn the spring-clode-alibaba guide directory</a>
 
+![Spring-Cloude-Alibaba-Guide](https://github.com/DemoTransfer/Spring-Cloud-Alibaba-Guide/blob/master/docs/xmind/Spring-Cloude-Alibaba-Guide.png)
+
 # About Spring Cloud Alibab View
 
 * <a href="https://blog.csdn.net/j3T9Z7H/article/details/89078059">Spring Cloud Alibaba到底坑不坑？</a>
